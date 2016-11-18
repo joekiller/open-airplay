@@ -22,8 +22,8 @@ public class AirPlay {
 	public static final String DISSOLVE = "Dissolve";
 	public static final String USERNAME = "Airplay";
 	public static final int PORT = 7000;
-	public static final int APPLETV_WIDTH = 1280;
-	public static final int APPLETV_HEIGHT = 720;
+	public static final int APPLETV_WIDTH = 1920;
+	public static final int APPLETV_HEIGHT = 1080;
 	public static final float APPLETV_ASPECT = (float) APPLETV_WIDTH/APPLETV_HEIGHT;
 	
 	protected String hostname;
